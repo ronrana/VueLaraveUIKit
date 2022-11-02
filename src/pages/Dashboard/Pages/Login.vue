@@ -9,7 +9,7 @@
               style="margin-bottom: 5px; margin-top: -3px"
             >
               <h3 class="text-white">
-                Log in to Vue NOW UI Dashboard PRO Live Preview
+                Log in to Vue NOW UI Dashboard PRO Live Preview New
               </h3>
               <p class="text-lead text-white">
                 Log in to see how you can save more than 300 hours of work with
